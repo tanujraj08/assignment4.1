@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_height">47dp</dimen>
+    <dimen name="layout_width">365dp</dimen>
+    <dimen name="layout_marginTop">10dp</dimen>
+    <dimen name="ems">10</dimen>
+    <dimen name="layout_marginEnd">8dp</dimen>
+    <dimen name="layout_marginStart">8dp</dimen>
+
+</resources>
